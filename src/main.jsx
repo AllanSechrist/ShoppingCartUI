@@ -10,7 +10,6 @@ createRoot(document.getElementById("root")).render(
     <ProductProvider>
       <CartProvider>
         <App />
-
       </CartProvider>
     </ProductProvider>
   </StrictMode>
